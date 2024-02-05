@@ -5,5 +5,5 @@ The file I uploaded in a .zip because I don't know how to make folder here.
 
 The admin page
 
-Username - Azilah
-Password - 123
+1) Username - azilah
+2) Password - 123
